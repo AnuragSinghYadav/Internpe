@@ -1,0 +1,9 @@
+$(document).ready(function{}(
+    ar player = 1;
+    ar winner = 0;
+    ar colors = {};
+    colors[-1] = "yellow";
+    colors[1] = "red";
+    ar count = 0;
+    
+)
